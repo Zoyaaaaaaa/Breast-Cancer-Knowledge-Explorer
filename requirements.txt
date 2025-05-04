@@ -1,0 +1,14 @@
+langchain==0.3.25
+langchain_community==0.3.23
+langchain_core==0.3.58
+langchain_experimental==0.3.4
+langchain_google_genai==2.1.4
+pandas==1.5.3
+PyPDF2==3.0.1
+python-dotenv==1.1.0
+rich==14.0.0
+streamlit==1.43.2
+neo4j
+langchain-neo4j
+numpy==1.24.3 
+pandas==1.5.3
